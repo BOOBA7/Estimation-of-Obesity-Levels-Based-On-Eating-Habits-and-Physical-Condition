@@ -1,5 +1,3 @@
-Description: Confusion matrix of the selected model (e.g., LightGBM).
+Description: Currently not generated.
 
-Purpose: Visualizes the true vs predicted classes to identify misclassifications.
-
-Details: Multi-class heatmap, annotated with counts for each class.
+Notes: ROC curves could be added later to visualize the trade-off between True Positive Rate and False Positive Rate across classes.
