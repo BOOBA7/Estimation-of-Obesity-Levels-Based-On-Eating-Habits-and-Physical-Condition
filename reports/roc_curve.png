@@ -1,0 +1,5 @@
+Description: ROC curves (one-vs-rest) for each class or macro-average AUC.
+
+Purpose: Visual evaluation of the model’s ability to discriminate between obesity categories.
+
+Details: Shows trade-off between True Positive Rate and False Positive Rate for all classes.
