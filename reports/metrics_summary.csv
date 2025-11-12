@@ -1,5 +1,0 @@
-Description: Tabular summary of model evaluation metrics for all trained algorithms.
-
-Content: Columns include Model, Accuracy, Precision, Recall, F1-score, Macro AUC.
-
-Purpose: Quick comparison of model performance to identify the best-performing model.

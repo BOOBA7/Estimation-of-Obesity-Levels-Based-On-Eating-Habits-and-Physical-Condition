@@ -1,0 +1,5 @@
+Description: Contains a table summarizing evaluation metrics for all trained models.
+
+Columns include: Model, Accuracy, Precision, Recall, F1-score, Macro AUC.
+
+Purpose: Allows quick comparison of model performance and identification of the best-performing model.
