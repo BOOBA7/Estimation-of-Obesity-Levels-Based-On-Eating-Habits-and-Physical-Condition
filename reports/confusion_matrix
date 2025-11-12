@@ -1,0 +1,5 @@
+Description: Confusion matrix for the selected model (LightGBM).
+
+Purpose: Shows predicted vs true classes for the multi-class classification task.
+
+Details: Two confusion matrices are available: one for synthetic + real combined data (accuracy 0.96) and one for real data only (accuracy 0.90).
