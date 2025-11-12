@@ -1,0 +1,5 @@
+The visualizations and metrics are generated from preprocessed data and trained models.
+
+The synthetic data allows balanced class representation, but results are illustrative and for learning purposes only.
+
+Scripts used to generate these outputs are located in the notebooks/ directory.
