@@ -1,0 +1,5 @@
+Description: Feature importance plot for the selected model.
+
+Purpose: Highlights which features have the most influence on predictions.
+
+Details: Typically generated from tree-based models like LightGBM or Random Forest.
