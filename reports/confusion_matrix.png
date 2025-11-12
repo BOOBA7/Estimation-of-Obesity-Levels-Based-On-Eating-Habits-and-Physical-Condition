@@ -1,0 +1,5 @@
+Description: Confusion matrix of the selected model (e.g., LightGBM).
+
+Purpose: Visualizes the true vs predicted classes to identify misclassifications.
+
+Details: Multi-class heatmap, annotated with counts for each class.
