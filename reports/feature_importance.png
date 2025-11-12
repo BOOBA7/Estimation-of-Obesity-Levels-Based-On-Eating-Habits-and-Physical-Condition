@@ -1,5 +1,6 @@
-Description: Feature importance plot for the selected model.
+Description: Feature importance plot from the LightGBM model.
 
-Purpose: Highlights which features have the most influence on predictions.
+Purpose: Highlights the most influential features in predicting obesity levels.
 
-Details: Typically generated from tree-based models like LightGBM or Random Forest.
+Details: Helps understand which variables (e.g., Age, Weight, Family history) contribute most to predictions.
+
